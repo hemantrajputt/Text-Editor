@@ -1,4 +1,4 @@
-//Blin Qipa 2019 - Yeditepe University
+//Hemant Kumar
 #include <iostream>
 #include <string>
 #include <fstream>
